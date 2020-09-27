@@ -5,7 +5,7 @@ Library                 RequestsLibrary
 
 Resource                ../config/constants.robot
 Resource                ../config/env.robot
-Resource                ./tokens.robot
+Resource                ./headers.robot
 
 *** Keywords ***
 

@@ -28,28 +28,28 @@ This is a template for make api tests using Robot Framework creating tests suite
 ### Installation
 
 1. To install this project you can clone it and go to step 2. Or use the commands below:
-```
-npm install rest_api_test_automation_template
-```
-1.1 Extract the test project from the node_modules folder and save it in your preferred location.
+    ```
+    npm install rest_api_test_automation_template
+    ```
+    1.1 Extract the test project from the node_modules folder and save it in your preferred location.
 
 2. This project ** requires Robot Framework installed **. Install the Robot using the steps below.
 
-2.1. Install Python 3
-```
-https://www.python.org/downloads/
-```
+    2.1. Install Python 3
+    ```
+    https://www.python.org/downloads/
+    ```
 
-2.2. Install Robot Framework
-```
-pip3 install robotframework
-```
+    2.2. Install Robot Framework
+    ```
+    pip3 install robotframework
+    ```
 
-2.3. Install HTTP Requests Library
-```
-pip3 install -U requests
-pip3 install -U robotframework-requests
-```
+    2.3. Install HTTP Requests Library
+    ```
+    pip3 install -U requests
+    pip3 install -U robotframework-requests
+    ```
 
 ### Languages used
 

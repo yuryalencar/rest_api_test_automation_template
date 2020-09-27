@@ -25,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/yuryalencar/REST_API_Test_Automation_Template/issues"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   "homepage": "https://github.com/yuryalencar/REST_API_Test_Automation_Template#readme"
 }

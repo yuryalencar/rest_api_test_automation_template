@@ -1,11 +1,11 @@
 *** Settings ***
-Documentation           Login e Início da Sessão
+Documentation           Example of the get request by enviroment
 Library                 Collections
 Library                 RequestsLibrary
 
-Resource                ../config/constants.robot
-Resource                ../config/env.robot
-Resource                ./headers.robot
+Resource                ../config/constants.example.robot
+Resource                ../config/env.example.robot
+Resource                ./headers.example.robot
 
 *** Keywords ***
 

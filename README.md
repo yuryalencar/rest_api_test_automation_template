@@ -51,14 +51,21 @@ pip3 install -U robotframework-requests
 
 ### How To Use
 
-1. Run your tests
+1. Run your all tests
 ```
 robot -d ./logs tests
+```
+
+2. Run your test by test suite
+```
+robot -d ./logs tests/feature_name
 ```
 
 ### Best Pratices
 
 1. Run yours tests using `-d ./logs` for organize log files.
+2. Not remove Config example files.
+3. create your Commons file according to your need.
 
 ### Files by directories
 

@@ -1,1 +1,3 @@
 logs/
+env.robot
+constants.robot
